@@ -21,6 +21,5 @@ This project uses **deep learning** and **computer vision** to classify the phas
 
 ---
 ## 🏃‍♂️ Run Predictions
-- Use the following command to run the prediction script on your input image file:
-- python src/predict.py --input path_to_your_image
+- Use the following command to run the prediction script on your input image file: python src/predict.py --input path_to_your_image
 - Replace path_to_your_image_or_video with the actual path to your image file.
