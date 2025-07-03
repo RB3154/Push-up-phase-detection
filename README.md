@@ -20,6 +20,16 @@ This project uses **deep learning** and **computer vision** to classify the phas
 - **Model:** MobileNetV2 (pre-trained on ImageNet, fine-tuned for push-up classification)
 
 ---
+
 ## 🏃‍♂️ Run Predictions
 - Use the following command to run the prediction script on your input image file: python src/predict.py --input path_to_your_image
 - Replace path_to_your_image_or_video with the actual path to your image file.
+
+## 📂 Dataset
+
+You can download the validation dataset used for testing the model from the link below:
+
+📥 [Download Validation Dataset (Google Drive)](https://drive.google.com/drive/folders/1WgSkoaOVBsHebrORw8T1tHVmsQex_yBq?usp=drive_link)
+
+
+
